@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\favorie_item.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\favorie_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\fragment_movie_detail.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\fragment_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\movie_item.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\movie_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\favorie_list.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\favorie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\activity_add_movie.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_add_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\fragment_favorie_manager.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\fragment_favorie_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\delete_alert_dialog.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\delete_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\movie_list.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\movie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\activity_update.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\fragment_movie_manager.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\fragment_movie_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\alert_dialog.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-mergeDebugResources-36:\\layout\\activity_favorie.xml",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_favorie.xml"
+    },
+    {
+        "merged": "com.example.tecmobileproject.app-mergeDebugResources-36:/layout/fragment_favorie_manager.xml",
+        "source": "com.example.tecmobileproject.app-main-39:/layout/fragment_favorie_manager.xml"
+    }
+]

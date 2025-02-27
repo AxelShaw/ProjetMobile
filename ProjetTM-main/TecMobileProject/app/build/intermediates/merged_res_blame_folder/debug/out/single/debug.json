@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_fragment_favorie_manager.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\fragment_favorie_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_favorie_item.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\favorie_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_activity_favorie.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_favorie.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable_ajout.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\drawable\\ajout.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable-v24_google.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\drawable-v24\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_activity_add_movie.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_add_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tecmobileproject.app-merged_res-37:/layout_fragment_favorie_manager.xml.flat",
+        "source": "com.example.tecmobileproject.app-main-39:/layout/fragment_favorie_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable_favoris.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\drawable\\favoris.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_fragment_movie_detail.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\fragment_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_favorie_list.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\favorie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_movie_item.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\movie_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable-v24_retour.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\drawable-v24\\retour.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\drawable-v24_home.png.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_alert_dialog.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_fragment_movie_manager.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\fragment_movie_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_delete_alert_dialog.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\delete_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_movie_list.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\movie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\lucas\\.gradle\\daemon\\7.4\\com.example.tecmobileproject.app-main-39:\\xml\\data_extraction_rules.xml"
+    }
+]

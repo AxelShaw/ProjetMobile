@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/ivMovieDetail"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerInside"
+        android:adjustViewBounds="true"
+        tools:src="@android:drawable/ic_menu_gallery"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:id="@+id/tvMovieDetailName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivMovieDetail"
+        android:layout_marginTop="16dp"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        tools:text="Movie Name" />
+
+    <TextView
+        android:id="@+id/tvMovieDetailRatings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvMovieDetailName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        tools:text="Note: 10/100" />
+
+    <TextView
+        android:id="@+id/tvMovieDetailRuntime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvMovieGenre"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        tools:text="Durée: 120 minutes" />
+
+    <TextView
+        android:id="@+id/tvMovieDetailType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvMovieDetailRuntime"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        tools:text="Type: Action" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvMovieDetailType"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp">
+
+        <TextView
+            android:id="@+id/tvMovieDetailDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Description: A great movie with an exciting plot! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et risus non lectus efficitur iaculis. Integer et facilisis sapien, at ultricies elit. Vivamus volutpat cursus mi, vel fermentum metus auctor vel. Suspendisse potenti." />
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/tvMovieGenre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvMovieDetailName"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        tools:text="Genre: " />
+
+    <TextView
+        android:id="@+id/tvMovieDirector"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvMovieDetailName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="71dp"
+        tools:text="Réalisateur: " />
+
+    <TextView
+        android:id="@+id/tvMovieRelease"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvMovieDetailName"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="99dp"
+        tools:text="Date de sortie: " />
+
+    <Button
+        android:id="@+id/btn_fav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvMovieDetailType"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="6dp"
+        android:text="Favorie" />
+
+</RelativeLayout>

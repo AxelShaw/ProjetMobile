@@ -1,0 +1,189 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tecmobileproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:6:5-67
+11-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:8:5-60:19
+14        android:allowBackup="true"
+14-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\lucas\.gradle\caches\transforms-3\6a19de105318aab1da00cfa3c60fb56e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:10:9-65
+17        android:debuggable="true"
+18        android:fullBackupContent="@xml/backup_rules"
+18-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:11:9-54
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/app_name"
+20-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:13:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:14:9-54
+22        android:supportsRtl="true"
+22-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:15:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme"
+24-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:16:9-40
+25        android:usesCleartextTraffic="true" >
+25-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:17:9-44
+26        <activity
+26-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:19:9-25:20
+27            android:name="com.example.tecmobileproject.main.movie.UpdateMovieActivity"
+27-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:20:13-59
+28            android:exported="false" >
+28-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:21:13-37
+29            <meta-data
+29-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:22:13-24:36
+30                android:name="android.app.lib_name"
+30-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:23:17-52
+31                android:value="" />
+31-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:24:17-33
+32        </activity>
+33        <activity
+33-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:26:9-32:20
+34            android:name="com.example.tecmobileproject.main.movie.AddMovieActivity"
+34-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:27:13-56
+35            android:exported="false" >
+35-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:28:13-37
+36            <meta-data
+36-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:22:13-24:36
+37                android:name="android.app.lib_name"
+37-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:23:17-52
+38                android:value="" />
+38-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:24:17-33
+39        </activity>
+40        <activity
+40-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:33:9-45:20
+41            android:name="com.example.tecmobileproject.main.user.LoginActivity"
+41-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:34:13-52
+42            android:exported="true" >
+42-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:35:13-36
+43            <intent-filter>
+43-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:36:13-40:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:37:17-69
+44-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:37:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:39:17-77
+46-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:39:27-74
+47            </intent-filter>
+48
+49            <meta-data
+49-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:22:13-24:36
+50                android:name="android.app.lib_name"
+50-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:23:17-52
+51                android:value="" />
+51-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:24:17-33
+52        </activity>
+53        <activity
+53-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:46:9-52:20
+54            android:name="com.example.tecmobileproject.main.movie.MovieListActivity"
+54-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:47:13-57
+55            android:exported="false" >
+55-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:48:13-37
+56            <meta-data
+56-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:22:13-24:36
+57                android:name="android.app.lib_name"
+57-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:23:17-52
+58                android:value="" />
+58-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:24:17-33
+59        </activity>
+60        <activity
+60-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:53:9-59:20
+61            android:name="com.example.tecmobileproject.main.favorie.FavorieActivity"
+61-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:54:13-57
+62            android:exported="false" >
+62-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:55:13-37
+63            <meta-data
+63-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:22:13-24:36
+64                android:name="android.app.lib_name"
+64-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:23:17-52
+65                android:value="" />
+65-->D:\Ecole\Bloc3\tecMobile\TecMobileProject\ProjetTM\TecMobileProject\app\src\main\AndroidManifest.xml:24:17-33
+66        </activity>
+67        <activity
+67-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+68            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+68-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+69            android:excludeFromRecents="true"
+69-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+70            android:exported="false"
+70-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+72        <!--
+73            Service handling Google Sign-In user revocation. For apps that do not integrate with
+74            Google Sign-In, this service will never be started.
+75        -->
+76        <service
+76-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+77            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+77-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+78            android:exported="true"
+78-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+79            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+79-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+80            android:visibleToInstantApps="true" />
+80-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\lucas\.gradle\caches\transforms-3\f32cd23532be1577ccc0585841703187\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+81
+82        <activity
+82-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\lucas\.gradle\caches\transforms-3\d81e92b27a6af5ec6c33078d341a9ab0\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+83            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+83-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\lucas\.gradle\caches\transforms-3\d81e92b27a6af5ec6c33078d341a9ab0\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+84            android:exported="false"
+84-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\lucas\.gradle\caches\transforms-3\d81e92b27a6af5ec6c33078d341a9ab0\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+85            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+85-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\lucas\.gradle\caches\transforms-3\d81e92b27a6af5ec6c33078d341a9ab0\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+86
+87        <meta-data
+87-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\lucas\.gradle\caches\transforms-3\7f32b70a151b930148cf9cf7b9873944\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+88            android:name="com.google.android.gms.version"
+88-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\lucas\.gradle\caches\transforms-3\7f32b70a151b930148cf9cf7b9873944\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+89            android:value="@integer/google_play_services_version" />
+89-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\lucas\.gradle\caches\transforms-3\7f32b70a151b930148cf9cf7b9873944\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+90
+91        <provider
+91-->[com.squareup.picasso:picasso:2.71828] C:\Users\lucas\.gradle\caches\transforms-3\2a905282e70e7d9a1aaa5960bb3cba3f\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+92            android:name="com.squareup.picasso.PicassoProvider"
+92-->[com.squareup.picasso:picasso:2.71828] C:\Users\lucas\.gradle\caches\transforms-3\2a905282e70e7d9a1aaa5960bb3cba3f\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+93            android:authorities="com.example.tecmobileproject.com.squareup.picasso"
+93-->[com.squareup.picasso:picasso:2.71828] C:\Users\lucas\.gradle\caches\transforms-3\2a905282e70e7d9a1aaa5960bb3cba3f\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+94            android:exported="false" />
+94-->[com.squareup.picasso:picasso:2.71828] C:\Users\lucas\.gradle\caches\transforms-3\2a905282e70e7d9a1aaa5960bb3cba3f\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+95        <provider
+95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lucas\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+96            android:name="androidx.startup.InitializationProvider"
+96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lucas\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+97            android:authorities="com.example.tecmobileproject.androidx-startup"
+97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lucas\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+98            android:exported="false" >
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lucas\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+99            <meta-data
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lucas\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+100                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lucas\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+101                android:value="androidx.startup" />
+101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lucas\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+102            <meta-data
+102-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lucas\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+103                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+103-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lucas\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+104                android:value="androidx.startup" />
+104-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lucas\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+105        </provider>
+106    </application>
+107
+108</manifest>
